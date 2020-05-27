@@ -1,20 +1,8 @@
-# EVENTBRITE
+# EventBrightNow
 
-Things you may want to cover:
+#### Remake du site Evenbrite 
 
-* Ruby version
+# Premiére étape :
+Backend fonctionnel : envoie de email à la création d'un utilisateur
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 

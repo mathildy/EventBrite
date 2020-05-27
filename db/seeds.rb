@@ -12,9 +12,9 @@ events = []
     users << User.create!(
         first_name: Faker::Name.first_name,
         last_name: Faker::Name.last_name,
-        email: "testdefail@yopmail.com",
+        email: "testdefail#{user.first_name}@yopmail.com",
         description: Faker::Lorem.paragraphs,
-        encrypted_password: "test"
+        password: "testtest",
         
     )
     
